@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/budding_amethyst_slab" },
+    "type=double": { "model": "minecraft:block/budding_amethyst" },
+    "type=top": { "model": "new_slab_variants:block/budding_amethyst_slab_top" } } }

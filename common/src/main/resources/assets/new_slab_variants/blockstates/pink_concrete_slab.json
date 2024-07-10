@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/pink_concrete_slab" },
+    "type=double": { "model": "minecraft:block/pink_concrete" },
+    "type=top": { "model": "new_slab_variants:block/pink_concrete_slab_top" } } }

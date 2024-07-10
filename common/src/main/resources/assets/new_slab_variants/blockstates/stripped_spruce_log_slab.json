@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/stripped_spruce_log_slab" },
+    "type=double": { "model": "minecraft:block/stripped_spruce_log" },
+    "type=top": { "model": "new_slab_variants:block/stripped_spruce_log_slab_top" } } }

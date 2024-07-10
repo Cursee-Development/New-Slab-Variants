@@ -1,0 +1,1 @@
+{ "type": "minecraft:crafting_shaped", "category": "building", "group": "wooden_slab", "key": { "#": { "item": "minecraft:soul_sand" } }, "pattern": [ "###" ], "result": { "count": 6, "id": "new_slab_variants:soul_sand_slab" }, "show_notification": true }

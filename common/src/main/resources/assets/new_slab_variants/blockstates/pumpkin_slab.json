@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/pumpkin_slab" },
+    "type=double": { "model": "minecraft:block/pumpkin" },
+    "type=top": { "model": "new_slab_variants:block/pumpkin_slab_top" } } }

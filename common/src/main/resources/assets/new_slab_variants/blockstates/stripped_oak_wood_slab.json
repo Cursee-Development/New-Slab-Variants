@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/stripped_oak_wood_slab" },
+    "type=double": { "model": "minecraft:block/stripped_oak_wood" },
+    "type=top": { "model": "new_slab_variants:block/stripped_oak_wood_slab_top" } } }

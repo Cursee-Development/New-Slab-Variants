@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/reinforced_deepslate_slab" },
+    "type=double": { "model": "minecraft:block/reinforced_deepslate" },
+    "type=top": { "model": "new_slab_variants:block/reinforced_deepslate_slab_top" } } }

@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/green_wool_slab" },
+    "type=double": { "model": "minecraft:block/green_wool" },
+    "type=top": { "model": "new_slab_variants:block/green_wool_slab_top" } } }

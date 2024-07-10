@@ -1,0 +1,1 @@
+{ "type": "minecraft:crafting_shaped", "category": "building", "group": "wooden_slab", "key": { "#": { "item": "minecraft:pink_wool" } }, "pattern": [ "###" ], "result": { "count": 6, "id": "new_slab_variants:pink_wool_slab" }, "show_notification": true }

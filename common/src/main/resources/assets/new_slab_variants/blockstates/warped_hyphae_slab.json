@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/warped_hyphae_slab" },
+    "type=double": { "model": "minecraft:block/warped_hyphae" },
+    "type=top": { "model": "new_slab_variants:block/warped_hyphae_slab_top" } } }

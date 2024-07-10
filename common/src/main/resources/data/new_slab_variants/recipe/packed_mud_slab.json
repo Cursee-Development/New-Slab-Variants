@@ -1,0 +1,1 @@
+{ "type": "minecraft:crafting_shaped", "category": "building", "group": "wooden_slab", "key": { "#": { "item": "minecraft:packed_mud" } }, "pattern": [ "###" ], "result": { "count": 6, "id": "new_slab_variants:packed_mud_slab" }, "show_notification": true }

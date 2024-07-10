@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/netherrack_slab" },
+    "type=double": { "model": "minecraft:block/netherrack" },
+    "type=top": { "model": "new_slab_variants:block/netherrack_slab_top" } } }

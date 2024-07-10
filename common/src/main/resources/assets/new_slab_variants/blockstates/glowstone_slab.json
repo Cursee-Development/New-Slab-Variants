@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/glowstone_slab" },
+    "type=double": { "model": "minecraft:block/glowstone" },
+    "type=top": { "model": "new_slab_variants:block/glowstone_slab_top" } } }

@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/polished_basalt_slab" },
+    "type=double": { "model": "minecraft:block/polished_basalt" },
+    "type=top": { "model": "new_slab_variants:block/polished_basalt_slab_top" } } }

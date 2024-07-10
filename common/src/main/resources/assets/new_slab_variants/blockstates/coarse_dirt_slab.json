@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/coarse_dirt_slab" },
+    "type=double": { "model": "minecraft:block/coarse_dirt" },
+    "type=top": { "model": "new_slab_variants:block/coarse_dirt_slab_top" } } }

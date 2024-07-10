@@ -1,0 +1,1 @@
+{ "type": "minecraft:crafting_shaped", "category": "building", "group": "wooden_slab", "key": { "#": { "item": "minecraft:budding_amethyst" } }, "pattern": [ "###" ], "result": { "count": 6, "id": "new_slab_variants:budding_amethyst_slab" }, "show_notification": true }

@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/oak_log_slab" },
+    "type=double": { "model": "minecraft:block/oak_log" },
+    "type=top": { "model": "new_slab_variants:block/oak_log_slab_top" } } }

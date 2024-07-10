@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/hay_bale_slab" },
+    "type=double": { "model": "minecraft:block/hay_bale" },
+    "type=top": { "model": "new_slab_variants:block/hay_bale_slab_top" } } }

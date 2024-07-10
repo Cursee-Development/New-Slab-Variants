@@ -1,0 +1,4 @@
+{ "variants": {
+    "type=bottom": { "model": "new_slab_variants:block/sculk_slab" },
+    "type=double": { "model": "minecraft:block/sculk" },
+    "type=top": { "model": "new_slab_variants:block/sculk_slab_top" } } }
