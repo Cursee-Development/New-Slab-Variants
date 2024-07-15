@@ -482,7 +482,7 @@ public class NewSlabsForge {
 
 
     public static final RegistryObject<CreativeModeTab> SLAB_TAB = SLAB_TABS.register("slab_tab", () -> CreativeModeTab.builder()
-            .withTabsBefore(CreativeModeTabs.SPAWN_EGGS).title(Component.translatable("creativemodetab.slab_tab"))
+            .withTabsBefore(CreativeModeTabs.SPAWN_EGGS).title(Component.translatable("itemGroup.newSlabVariants"))
             .icon(() -> DIRT_SLAB_ITEM.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 output.accept(DIRT_SLAB_ITEM.get());
