@@ -1,4 +1,4 @@
-package com.cursee.examplemod.platform.services;
+package com.cursee.new_slab_variants.platform.services;
 
 public interface IPlatformHelper {
 

@@ -1,6 +1,6 @@
-package com.cursee.examplemod.platform;
+package com.cursee.new_slab_variants.platform;
 
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.new_slab_variants.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

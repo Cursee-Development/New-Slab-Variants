@@ -1,6 +1,6 @@
-package com.cursee.examplemod.platform;
+package com.cursee.new_slab_variants.platform;
 
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.new_slab_variants.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 
