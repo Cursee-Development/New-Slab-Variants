@@ -278,8 +278,10 @@ public class NewSlabsFabric {
         OBSIDIAN_SLAB = registerBlock("obsidian_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
         CRYING_OBSIDIAN_SLAB = registerBlock("crying_obsidian_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
         BUDDING_AMETHYST_SLAB = registerBlock("budding_amethyst_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
-        BROWN_MUSHROOM_BLOCK_SLAB = registerBlock("brown_mushroom_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
-        RED_MUSHROOM_BLOCK_SLAB = registerBlock("red_mushroom_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
+
+        BROWN_MUSHROOM_BLOCK_SLAB = registerBlock("brown_mushroom_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava().lightLevel((level) -> 1)));
+        RED_MUSHROOM_BLOCK_SLAB = registerBlock("red_mushroom_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava().lightLevel((level) -> 1)));
+
         NETHER_WART_BLOCK_SLAB = registerBlock("nether_wart_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
         WARPED_WART_BLOCK_SLAB = registerBlock("warped_wart_block_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
         GLOWSTONE_SLAB = registerBlock("glowstone_slab", new SlabBlock(BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).instrument(NoteBlockInstrument.BASS).strength(2.0F, 3.0F).sound(SoundType.WOOD).ignitedByLava()));
